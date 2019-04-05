@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css?family=Gaegu');
+
+body{
+	font-family: 'Gaegu', cursive;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+}
+
+.nav_dh{
+	width: 100%;
+	height: 70px;
+	text-align: center;
+}
+
+nav img{
+	width: 40px;
+	height: 40px;
+	margin: auto;
+	padding: auto;
+}
+
+nav p{
+	display: inline-block;
+	margin-left: 300px;
+}
+
+nav table {
+	width: 100%;
+}
+
+.ul_dh{
+	margin-left: 350px;
+}
+
+ul li{
+	font-size: 15px;
+	color: gray;
+	display: inline-block;
+}
+
+h2{
+	font-size: 60px;
+	color: pink;
+}
+
+header{
+	background-image: url("background image.jpg");
+	width: 100%;
+	height: 600px;
+	text-align: center;
+}
+
+header p {
+	font-size: 18px;
+}
+
+h3{
+	font-size: 45px;
+	color: pink;
+}
+.dahye{
+	display: flex;
+}
+article {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	vertical-align: top;
+	display: flex;
+	margin-left:5px;
+	margin-right:5px;
+}
+
+article p{
+	width: 310px;
+	font-size: 15px;
+}
+
+article img {
+	width: 310px;
+	height: 310px;
+	padding: auto;
+}
+
+footer {
+	width: 100%;
+	padding: auto;
+	font-size: 15px;
+	margin: auto;
+}
+
+
+.container{
+	width: 960px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto; 
+	padding :0px;
+}
+
+.container table {
+	display: inline-block;
+}
+
+.container h2{
+	display: inline-block;
+	margin-top: 10%;
+}
+
+.likeone{
+	font-size: 30px;
+	color: pink;
+	text-align: center;
+}
